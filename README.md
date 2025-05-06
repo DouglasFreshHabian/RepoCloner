@@ -80,7 +80,7 @@ Check out my Shopify 🛒 Store for creative artwork, custom Linux tools, and op
 
 ## 🛒 Amazon Affiliate Links
 Purchase any products through Amazon by clicking on my affiliate links and I get a small percentage!
-[Full List of Affiliate Links](https://github.com/DouglasFreshHabian/REPOSITORY/PRODUCTS.md)
+[Full List of Affiliate Links](https://github.com/DouglasFreshHabian/RepoCloner/blob/main/PRODUCTS.md)
 
 ---
 
