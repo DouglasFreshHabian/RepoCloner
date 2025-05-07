@@ -27,3 +27,8 @@
 ## 🎲 [Raspberry Pi Pico 2 W RP2350 Microcontroller](https://amzn.to/4lYifEp)
 
 ## 🎮 [Raspberry Pi 5 SBC (8GB RAM)](https://amzn.to/3Z4H5s5)
+
+## 🔑 [Yubico - YubiKey 5 NFC - Two-Factor authentication (2FA) Security Key](https://amzn.to/3F6n2Tn)
+
+## 🔐 [Yubico - YubiKey Bio (FIDO Edition)](https://amzn.to/4j2o2pO)
+
